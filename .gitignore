@@ -1,0 +1,5 @@
+/node_modules
+/src/App1.js
+/src/App.test.js
+/src/setupTests.js
+.env*
